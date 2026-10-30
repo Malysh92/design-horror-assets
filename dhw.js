@@ -94,6 +94,7 @@
     { n: 298, date: '25 октября', big: 's5/issues/d2510.webp', thumb: 's5/issues/d2510_s.webp' },
     { n: 297, date: '24 октября', big: 's5/issues/d2410.webp', thumb: 's5/issues/d2410_s.webp' },
     { n: 296, date: '23 октября', big: 's5/issues/d2310.webp', thumb: 's5/issues/d2310_s.webp' },
+    { n: 295, date: '22 октября', big: 's5/issues/d2210.webp', thumb: 's5/issues/d2210_s.webp' },
     { n: 294,  date: '21 октября', big: 's5/issues/294.webp',     thumb: 's5/issues/294_s.webp' },
     { n: 293,  date: '20 октября', big: 's5/issues/293.webp',     thumb: 's5/issues/293_s.webp' },
     { n: 292,  date: '19 октября', big: 's5/issues/292.webp',     thumb: 's5/issues/292_s.webp' },
